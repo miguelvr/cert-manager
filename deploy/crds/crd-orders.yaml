@@ -46,6 +46,8 @@ spec:
     listKind: OrderList
     plural: orders
     singular: order
+    categories:
+    - all
   scope: Namespaced
   subresources:
     status: {}

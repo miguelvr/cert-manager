@@ -45,6 +45,8 @@ spec:
     listKind: ChallengeList
     plural: challenges
     singular: challenge
+    categories:
+    - all
   scope: Namespaced
   subresources:
     status: {}

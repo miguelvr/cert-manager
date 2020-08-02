@@ -42,6 +42,8 @@ spec:
     listKind: IssuerList
     plural: issuers
     singular: issuer
+    categories:
+    - all
   scope: Namespaced
   subresources:
     status: {}

@@ -42,6 +42,8 @@ spec:
     listKind: ClusterIssuerList
     plural: clusterissuers
     singular: clusterissuer
+    categories:
+    - all
   scope: Cluster
   subresources:
     status: {}

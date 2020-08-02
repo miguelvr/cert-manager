@@ -49,6 +49,8 @@ spec:
     - cr
     - crs
     singular: certificaterequest
+    categories:
+    - all
   scope: Namespaced
   subresources:
     status: {}
